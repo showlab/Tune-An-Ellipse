@@ -1,0 +1,9 @@
+opencv-python
+numpy
+torch~=2.0.1
+gradio
+tqdm
+matplotlib
+scikit-learn
+ttach
+git+https://github.com/openai/CLIP
